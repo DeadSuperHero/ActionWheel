@@ -1,6 +1,9 @@
 # ActionWheel
-ActionWheel is an open source game template for Adventure Game Studio. The goal
-of this design project is three things:
+_Note: This tempalte is designed for AGS 3.5.0_
+
+ActionWheel is an open source game template for
+[Adventure Game Studio](https://adventuregamestudio.co.uk). The goal of this
+design project is three things:
 
 1. **Visual Simplicity** - in point-and-click adventure games, it's sometimes easy
 to end up in a situation where the game UI elements take up way too much space.
@@ -52,3 +55,10 @@ Worse yet, sometimes there's a significant amount of distance between the
  biggest two things are: representing touch inputs to an engine designed around
  mouse clicks, and visually showing to players exactly where fingers are positioned
  using the AGS Camera API.
+
+ ## How to start using this!
+
+ There are two basic ways to get up and running:
+ 1. Git clone this repo and open up the demo game
+ 2. Git clone this repo, and instead put the `actionwheel.agt` file in the folder
+ where your AGS Editor lives.
