@@ -1,5 +1,5 @@
 # ActionWheel
-_Note: This tempalte is designed for AGS 3.5.0_
+_Note: This template is designed for AGS 3.5.0_
 
 ActionWheel is an open source game template for
 [Adventure Game Studio](https://adventuregamestudio.co.uk). The goal of this
