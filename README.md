@@ -10,6 +10,8 @@ to end up in a situation where the game UI elements take up way too much space.
 Worse yet, sometimes there's a significant amount of distance between the
  _thing you want to click_ (a verb icon, like "Use") and a _the thing you need to
  click afterwards_ (an object, like a lever)
+ 
+ ![Picking up items](https://github.com/DeadSuperHero/ActionWheel/blob/main/Screenshots/pick-up-items.gif)
 
  ActionWheel attempts to solve this problem by putting everything you need in
  one place, at the shortest possible distance from where you clicked. The idea
@@ -31,6 +33,8 @@ Worse yet, sometimes there's a significant amount of distance between the
  indicate what kind of action is available for that button.
  * Inventory Label - Finally, the inventory window shows what icon is currently
  under the mouse.
+ 
+ ![Label-Switching for Actions](https://github.com/DeadSuperHero/ActionWheel/blob/main/Screenshots/multi-context.gif)
 
  3. **Integration of Elements** - ActionWheel aims to design a new kind of
  point-and-click interface that incorporates traditional pop-up windows into
@@ -39,6 +43,8 @@ Worse yet, sometimes there's a significant amount of distance between the
  within immediate reach for the player. In addition, this particular design is
  intended to be friendly to both traditional desktop inputs, as well as mobile
  tablets.
+ 
+ ![Opening Inventory anywhere](https://github.com/DeadSuperHero/ActionWheel/blob/main/Screenshots/inv-open-2.gif)
 
  ## Current Status
  A very basic demo game has been put together with a 1.0 release of the GUI's
